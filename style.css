@@ -18,7 +18,7 @@ h1{
 header ul {
     position:absolute;
     right:5vw;
-    top:0
+    top:0;
     line-height:80px;
 }
 header li {
