@@ -19,7 +19,7 @@ header ul {
     position:absolute;
     right:5vw;
     top:0
-    line: height 80px;
+    line-height:80px;
 }
 header li {
     display: inline;
