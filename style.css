@@ -38,3 +38,11 @@ body {
     background-size: cover;
     background-attachment: fixed;
 }
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: #474442;
+    height: 80px;
+    width:100%;
+    position: relative;
+}
