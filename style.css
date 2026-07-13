@@ -39,10 +39,11 @@ body {
     background-attachment: fixed;
 }
 footer{
+    background-color: black;
+    color: #b7b7b7;
+    height: 60px;
     display: flex;
     justify-content: center;
-    background-color: #474442;
-    height: 80px;
-    width:100%;
-    position: relative;
+    align-items: center;
+    font-size: 14px;
 }
