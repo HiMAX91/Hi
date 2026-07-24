@@ -119,3 +119,7 @@ blockquote{
     align-items: center;
     justify-content: center;
 }
+html::-webkit-scrollbar,
+body::--webkit-scrollbar {
+    display: none;
+}
